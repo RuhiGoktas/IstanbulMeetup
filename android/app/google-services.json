@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "415029602855",
+    "project_id": "meetupclone-eb746",
+    "storage_bucket": "meetupclone-eb746.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:415029602855:android:24ea08735d6cbd08563c02",
+        "android_client_info": {
+          "package_name": "com.ro.meetup"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA37sVBeZtbA_-D2qraaHpsebZr7kvAyw0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
